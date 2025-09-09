@@ -1,0 +1,2 @@
+# StackTheBox
+env for MARL
