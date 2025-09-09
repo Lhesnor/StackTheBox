@@ -1,6 +1,8 @@
 # Stack the box
 
-![Preview](assets/preview_gif.gif)
+<p align="center"">
+    <img src="assets/preview_gif.gif" width="60%"/>
+</p>
 
 A custom multi-agent environment built with **PettingZoo**, **Box2D**, and **PyGame**.  
 Agents are boxes that can move left/right and jump to build towers.  
